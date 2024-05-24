@@ -1,2 +1,2 @@
 # Quiz-App
-Quiz App  with HTML, CSS and JS
+https://webd-quizapp-ash.netlify.app
